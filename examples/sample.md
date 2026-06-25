@@ -4,7 +4,7 @@
 2. Add files
 3. Commit changes
 4. Push to GitHub
-
+5. Done
 This is the basc workflow.
 
 
@@ -19,4 +19,3 @@ This is the basc workflow.
 
 
 
-editing the pr (27).
